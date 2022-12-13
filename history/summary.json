@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/bo.truyol.com.ico",
     "slug": "bo-truyol",
     "status": "up",
-    "uptime": "3.52%",
-    "uptimeDay": "3.52%",
-    "uptimeWeek": "3.52%",
-    "uptimeMonth": "3.52%",
-    "uptimeYear": "3.52%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 3832,
     "timeDay": 3832,
     "timeWeek": 3832,
     "timeMonth": 3832,
     "timeYear": 3832,
-    "dailyMinutesDown": {
-      "2022-12-13": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Blog Truyol",
@@ -43,18 +41,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/truyol.com.ico",
     "slug": "blog-truyol",
     "status": "up",
-    "uptime": "2.61%",
-    "uptimeDay": "2.61%",
-    "uptimeWeek": "2.61%",
-    "uptimeMonth": "2.61%",
-    "uptimeYear": "2.61%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 647,
     "timeDay": 647,
     "timeWeek": 647,
     "timeMonth": 647,
     "timeYear": 647,
-    "dailyMinutesDown": {
-      "2022-12-13": 3
-    }
+    "dailyMinutesDown": {}
   }
 ]
