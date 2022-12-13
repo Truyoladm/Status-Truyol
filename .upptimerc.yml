@@ -10,3 +10,9 @@ status-website: # Status website (optional)
   #cname: upptime.js.org # Custom domain CNAME
   baseUrl: /upptime
   name: Upptime # Status website title
+
+navbar:
+    - title: Status
+      href: /
+    - title: GitHub
+      href: https://github.com/$OWNER/$REPO
