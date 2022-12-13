@@ -10,11 +10,51 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1638,
-    "timeDay": 1638,
-    "timeWeek": 1638,
-    "timeMonth": 1638,
-    "timeYear": 1638,
+    "time": 1576,
+    "timeDay": 1576,
+    "timeWeek": 1576,
+    "timeMonth": 1576,
+    "timeYear": 1576,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Bo Truyol",
+    "url": "https://www.bo.truyol.com",
+    "icon": "https://icons.duckduckgo.com/ip3/www.bo.truyol.com.ico",
+    "slug": "bo-truyol",
+    "status": "down",
+    "uptime": "20.20%",
+    "uptimeDay": "20.20%",
+    "uptimeWeek": "20.20%",
+    "uptimeMonth": "20.20%",
+    "uptimeYear": "20.20%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2022-12-13": 0
+    }
+  },
+  {
+    "name": "Blog Truyol",
+    "url": "https://www.blog.truyol.com",
+    "icon": "https://icons.duckduckgo.com/ip3/www.blog.truyol.com.ico",
+    "slug": "blog-truyol",
+    "status": "down",
+    "uptime": "39.80%",
+    "uptimeDay": "39.80%",
+    "uptimeWeek": "39.80%",
+    "uptimeMonth": "39.80%",
+    "uptimeYear": "39.80%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2022-12-13": 0
+    }
   }
 ]
