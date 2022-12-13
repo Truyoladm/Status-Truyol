@@ -4,6 +4,11 @@ repo: upptime # GitHub repository name
 sites: # List of endpoints to track
   - name: Truyol
     url: https://www.truyol.com
+  - name: Bo Truyol
+    url: https://www.bo.truyol.com
+  - name: Blog Truyol
+    url: https://www.blog.truyol.com
+    
 assignees: # Users to assign downtime issues (optional)
   - Truyoladm
 status-website: # Status website (optional)
