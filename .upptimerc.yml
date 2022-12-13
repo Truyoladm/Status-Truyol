@@ -13,6 +13,10 @@ assignees: # Users to assign downtime issues (optional)
   - Truyoladm
 status-website: # Status website (optional)
   #cname: upptime.js.org # Custom domain CNAME
+  logoUrl: https://truyol.com/img/es/logo/truyol.png
+  name: Truyol
+  introTitle: "**Upptime** TRUYOL"
+  introMessage: Aqui podras comprobar el Estado de Truyol.
   #cname: demo.upptime.js.org
   #cname: truyoladm.github.io  
   baseUrl: /upptime
@@ -23,3 +27,7 @@ navbar:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+
+ 
+# Upptime also supports notifications, assigning issues, and more
+# See https://upptime.js.org/docs/configuration
