@@ -15,6 +15,16 @@ sites:
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
     method: POST
+  - name: Truyol
+    url: https://www.truyol.com
+    method: POST
+  - name: Bo Truyol
+    url: https://www.bo.truyol.com
+    method: POST 
+  - name: Blog Truyol
+    url: https://www.blog.truyol.com
+    method: POST
+   
  
  assignees:
   - Truyoladm
