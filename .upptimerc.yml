@@ -5,9 +5,9 @@ sites: # List of endpoints to track
   - name: Truyol
     url: https://www.truyol.com
   - name: Bo Truyol
-    url: https://www.bo.truyol.com
+    url: https://bo.truyol.com/bo/acceso
   - name: Blog Truyol
-    url: https://www.blog.truyol.com
+    url: https://truyol.com/blog/
     
 assignees: # Users to assign downtime issues (optional)
   - Truyoladm
