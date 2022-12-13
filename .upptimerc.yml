@@ -12,8 +12,8 @@ sites:
   - name: Hacker News
     url: https://news.ycombinator.com
     method: POST
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Truyol
+    url: https://truyol.com
     method: POST
   - name: Truyol
     url: https://www.truyol.com
