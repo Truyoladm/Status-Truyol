@@ -27,6 +27,16 @@ navbar:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+      
+      
+workflowSchedule:
+  graphs: "0 */6 * * *"
+  responseTime: "10 */6 * * *"
+  staticSite: "20 */6 * * *"
+  summary: "30 */6 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "40 */6 * * *"
+  uptime: "*/5 * * * *"
 
  
 # Upptime also supports notifications, assigning issues, and more
