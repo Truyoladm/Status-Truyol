@@ -1,7 +1,7 @@
 url: https://www.truyol.com
-status: up
-code: 200
-responseTime: 1932
-lastUpdated: 2022-12-14T00:24:18.029Z
+status: down
+code: 405
+responseTime: 1175
+lastUpdated: 2022-12-14T00:29:44.422Z
 startTime: Tue Dec 13 2022 19:12:00 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
